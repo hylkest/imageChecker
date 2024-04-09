@@ -50,5 +50,5 @@ def main(sitemap_url):
             print(f"No broken images found on {url}")
 
 if __name__ == "__main__":
-    sitemap_url = "https://cssight.com/sitemap.xml"  # Replace with the actual sitemap URL
+    sitemap_url = "https://example.com/sitemap.xml"
     main(sitemap_url)
